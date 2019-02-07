@@ -10,8 +10,8 @@
    </div>
 
 
-   <button onclick={ feed }>Send Money</button>
-   <button onclick={ unfeed }>Take Money</button>
+   <button onclick={ feed }>Take Money</button>
+   <button onclick={ unfeed }>Send Money</button>
 
 
    <script>
